@@ -1,27 +1,31 @@
-# Hi there, I'm Mohammed Kasu 👋
+<div align="center">
 
-🎓 **First-Year AI & Data Science Engineering Student** at Rizvi College of Engineering (RCOE), Mumbai.
+# 🦇 WAYNE ENTERPRISE TACTICAL OS v4.09
+### BATCAVE MAIN VANGUARD SYSTEM // MODULE: AI & DATA SCIENCE
 
----
+```text
+                     .88888888:.
+                    88888888.88888.
+                  .8888888888888888.
+                 .888888888888888888.
+                 88888888888888888888
+                 88888888888888888888
+                 88888888888888888888
+                 '888888888888888888'
+                  '8888888888888888'
+                    '888888888888'
+                      '88888888'
+                        '8888'
+                          ''
 
-### 🚀 About Me
-- 🔭 Currently building strong foundations in **C Programming**, **Data Structures**, and **Python**.
-- 📐 Passionate about solving complex algorithms, discrete math, and network analysis.
-- 🎯 Goal: Master modern AI architectures and data engineering pipelines.
-
----
-
-### 🛠️ Tech Stack & Tools
-- **Languages:** `C`, `Python`
-- **Developer Tools:** `Git`, `GitHub`, `VS Code`
-- **Focus Areas:** `Artificial Intelligence`, `Data Structures & Algorithms`
-
----
-
-### 📊 GitHub Stats
-![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedekasu-cell&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedekasu-cell&layout=compact&theme=dark)
-
----
-
-⚡ *Fun fact:* Continuous learning & building step-by-step.
++--------------------------------------------------------------------------+
+|                      WAYNE TECH OPERATIVE DOSSIER                        |
++--------------------------------------------------------------------------+
+| OPERATIVE ID : Mohammed Kasu                                             |
+| DIVISION     : AI & Data Science Engineering                             |
+| BASE HQ      : Rizvi College of Engineering                              |
+| SECTOR       : Mumbai, India                                             |
+| CORE FOCUS   : Algorithms, C Systems, Neural Architectures, Data Pipelines |
+| MISSION      : Engineer high-performance logic under low-latency limits  |
+| SYSTEM STATE : Monitoring, building, expanding capabilities              |
++--------------------------------------------------------------------------+
