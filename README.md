@@ -1,39 +1,48 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/software-engineer.gif" width="100%" alt="Animated Hacker Header">
+<!-- WAYNE ENTERPRISES HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=WAYNE%20ENTERPRISES%20//%20BATCOMPUTER&fontSize=36&fontColor=FFD700&animation=twinkling&fontAlignY=40&stroke=FFD700" width="100%" alt="Batcave Header"/>
 
-# ⚡ MOHAMMED KASU // LIVE HUD
+# 🦇 MOHAMMED KASU // ALPHA OPERATIVE
 ### AI & DATA SCIENCE ENGINEERING // RCOE MUMBAI
-
-![](https://komarev.com/ghpvc/?username=mohammedekasu-cell&color=00ff66&style=for-the-badge&label=SYSTEM+PINGS)
 
 <br>
 
+<!-- DYNAMIC TYPING SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=INITIALIZING+SYSTEM+CORE...;AI+%26+DATA+SCIENCE+OPERATIVE;C+%26+PYTHON+ARCHITECTURE;GOTHAM+SECTOR+ACTIVE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=ACCESSING+BATCAVE+MAINMAINFRAME...;AI+%26+DATA+SCIENCE+OPERATIVE;C+%26+PYTHON+TACTICAL+ARCHITECT;GOTHAM+SECTOR+SECURE" alt="Typing SVG" />
 </p>
 
+<br>
+
+<!-- SECURITY BADGES -->
+![](https://img.shields.io/badge/BATCOMPUTER-ONLINE-000000?style=for-the-badge&logo=batman&logoColor=FFD700&color=000000)
+![](https://img.shields.io/badge/CLEARANCE-LEVEL_ONE-FFD700?style=for-the-badge&logoColor=black&color=FFD700)
+![](https://img.shields.io/badge/SECURITY-ENCRYPTED-000000?style=for-the-badge&color=000000&logo=shield&logoColor=FFD700)
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/WAYNE_NETWORK-GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFD700&color=000000)](https://github.com/mohammedekasu-cell)
+[![Email](https://img.shields.io/badge/SECURE_COMMS-GMAIL-FFD700?style=for-the-badge&logo=gmail&logoColor=black&color=FFD700)](mailto:mohammedekasu@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=mohammedekasu-cell&color=FFD700&style=for-the-badge&label=BATCOMPUTER+PINGS)
+
 </div>
 
 ---
 
 <div align="center">
 
-## 🛠️ // LIVE TACTICAL MODULES
+## 🦇 [SECTION 01] // OPERATIVE DOSSIER
 
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 // LIVE TELEMETRY METRICS
-
-![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedekasu-cell&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-
-</div>
+```text
++--------------------------------------------------------------------------+
+|                     WAYNE TECH TACTICAL DOSSIER                          |
++--------------------------------------------------------------------------+
+| OPERATIVE ID : Mohammed Kasu                                             |
+| DIVISION     : AI & Data Science Engineering                             |
+| BASE HQ      : Rizvi College of Engineering // Mumbai                    |
+| CORE FOCUS   : Neural Logic, C Systems, Algorithmic Data Pipelines       |
+| MISSION      : Build low-latency automated intelligence architectures    |
+| SYSTEM STATE : Monitoring, building, optimizing tactical defenses        |
++--------------------------------------------------------------------------+
