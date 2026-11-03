@@ -1,96 +1,109 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="740" viewBox="0 0 1200 740">
-<defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#010408" /><stop offset=".5" stop-color="#020b16" /><stop offset="1" stop-color="#010204" /></linearGradient>
- <filter id="glow"><feGaussianBlur stdDeviation="3.5" result="b" /><feMerge><feMergeNode in="b" /><feMergeNode in="SourceGraphic" /></feMerge></filter>
- <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#00d4ff" opacity=".25" /></pattern>
-</defs>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#010408" />
+      <stop offset=".5" stop-color="#020b16" />
+      <stop offset="1" stop-color="#010204" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.5" result="b" />
+      <feMerge>
+        <feMergeNode in="b" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#00d4ff" opacity=".25" />
+    </pattern>
+  </defs>
 
-<rect width="1200" height="740" rx="16" fill="url(#bg)" />
-<rect width="1200" height="740" fill="url(#dots)" />
+  <!-- Background Layer -->
+  <rect width="1200" height="740" rx="16" fill="url(#bg)" />
+  <rect width="1200" height="740" fill="url(#dots)" />
 
-<path d="M40 25H120M25 40V120" stroke="#00e5ff" stroke-width="2" fill="none" opacity=".6" />
-<path d="M1160 25H1080M1175 40V120" stroke="#00e5ff" stroke-width="2" fill="none" opacity=".6" />
-<path d="M40 715H120M25 700V620" stroke="#00e5ff" stroke-width="2" fill="none" opacity=".6" />
-<path d="M1160 715H1080M1175 700V620" stroke="#00e5ff" stroke-width="2" fill="none" opacity=".6" />
+  <!-- Hologram HUD Corners -->
+  <path d="M40 25H120M25 40V120" stroke="#00e5ff" stroke-width="2" fill="none" opacity=".6" />
+  <path d="M1160 25H1080M1175 40V120" stroke="#00e5ff" stroke-width="2" fill="none" opacity=".6" />
+  <path d="M40 715H120M25 700V620" stroke="#00e5ff" stroke-width="2" fill="none" opacity=".6" />
+  <path d="M1160 715H1080M1175 700V620" stroke="#00e5ff" stroke-width="2" fill="none" opacity=".6" />
 
-<text x="50" y="45" fill="#00e5ff" font-family="monospace" font-size="12" letter-spacing="3">STARK_OS // MARK-3 HOLOGRAPHIC SCHEMA</text>
-<text x="1150" y="45" fill="#00e5ff" font-family="monospace" font-size="12" text-anchor="end" letter-spacing="2">ACTIVE_SYNC // 99.8%</text>
-<path d="M50 58H1150" stroke="#00e5ff" stroke-width="1" opacity=".3" />
+  <!-- Top Header HUD -->
+  <text x="50" y="45" fill="#00e5ff" font-family="monospace" font-size="12" letter-spacing="3">STARK_OS // MARK-3 HOLOGRAPHIC SCHEMA</text>
+  <text x="1150" y="45" fill="#00e5ff" font-family="monospace" font-size="12" text-anchor="end" letter-spacing="2">ACTIVE_SYNC // 99.8%</text>
+  <path d="M50 58H1150" stroke="#00e5ff" stroke-width="1" opacity=".3" />
 
-<!-- Rotating Gipsy Danger Turbine Blueprint Schema -->
-<g transform="translate(140, 195)">
-  <circle r="105" fill="none" stroke="#0055ff" stroke-width="1" stroke-dasharray="10 10" opacity=".5" />
-  <circle r="90" fill="none" stroke="#00e5ff" stroke-width="2" stroke-dasharray="30 15" filter="url(#glow)">
-    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite" />
-  </circle>
-  <circle r="65" fill="none" stroke="#66f0ff" stroke-width="1.5" stroke-dasharray="8 8" filter="url(#glow)">
-    <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="10s" repeatCount="indefinite" />
-  </circle>
-
-  <circle r="38" fill="#031226" stroke="#00e5ff" stroke-width="2" filter="url(#glow)" />
-  <g stroke="#00e5ff" stroke-width="2" filter="url(#glow)">
-    <line x1="-25" y1="0" x2="25" y2="0" />
-    <line x1="0" y1="-25" x2="0" y2="25" />
-    <line x1="-18" y1="-18" x2="18" y2="18" />
-    <line x1="-18" y1="18" x2="18" y2="-18" />
-    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite" />
-  </g>
-  <circle r="6" fill="#fff" filter="url(#glow)" />
-  <text x="0" y="130" fill="#80f5ff" font-family="monospace" font-size="11" text-anchor="middle" letter-spacing="2">GIPSY_DANGER // VULCAN TURBINE</text>
-</g>
-
-<!-- Frequency Wave -->
-<g transform="translate(45, 410)">
-  <text x="0" y="0" fill="#00e5ff" font-family="monospace" font-size="11" letter-spacing="2">NEURAL_DRIFT_ANALYSIS</text>
-  <path d="M0 40 Q45 0 90 40 T180 40 T270 40 T360 40" fill="none" stroke="#00e5ff" stroke-width="2" filter="url(#glow)">
-    <animate attributeName="d" values="M0 40 Q45 10 90 40 T180 10 T270 70 T360 40;M0 40 Q45 70 90 40 T180 70 T270 10 T360 40;M0 40 Q45 10 90 40 T180 10 T270 70 T360 40" dur="3s" repeatCount="indefinite" />
-  </path>
-  <text x="0" y="85" fill="#66ccff" font-family="monospace" font-size="10">PONS_LINK: STABLE // 2.4 GHz</text>
-</g>
-
-<!-- Operative Dossier -->
-<g transform="translate(430, 85)">
-  <text x="0" y="25" fill="#00e5ff" font-family="monospace" font-size="14" letter-spacing="2">02 // OPERATIVE PROFILE</text>
-  <g font-family="monospace" font-size="13" transform="translate(0, 35)">
-    <g fill="#0099ff">
-      <text x="0" y="30">OPERATIVE</text>
-      <text x="0" y="70">DIVISION</text>
-      <text x="0" y="110">BASE HQ</text>
-      <text x="0" y="150">CORE STACK</text>
-      <text x="0" y="190">OBJECTIVE</text>
-      <text x="0" y="230">NETWORKS</text>
+  <!-- Rotating Gipsy Danger Turbine Blueprint Schema -->
+  <g transform="translate(140, 195)">
+    <circle r="105" fill="none" stroke="#0055ff" stroke-width="1" stroke-dasharray="10 10" opacity=".5" />
+    <circle r="90" fill="none" stroke="#00e5ff" stroke-width="2" stroke-dasharray="30 15" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="18s" repeatCount="indefinite" />
+    </circle>
+    <circle r="65" fill="none" stroke="#66f0ff" stroke-width="1.5" stroke-dasharray="8 8" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="rotate" from="360 0 0" to="0 0 0" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle r="38" fill="#031226" stroke="#00e5ff" stroke-width="2" filter="url(#glow)" />
+    <g stroke="#00e5ff" stroke-width="2" filter="url(#glow)">
+      <line x1="-25" y1="0" x2="25" y2="0" />
+      <line x1="0" y1="-25" x2="0" y2="25" />
+      <line x1="-18" y1="-18" x2="18" y2="18" />
+      <line x1="-18" y1="18" x2="18" y2="-18" />
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="4s" repeatCount="indefinite" />
     </g>
-    <g fill="#e0f7ff">
-      <text x="140" y="30">Mohammed Kasu</text>
-      <text x="140" y="70">AI & Data Science Engineering</text>
-      <text x="140" y="110">RCOE // Mumbai, India</text>
-      <text x="140" y="150">C · Python · Git · VS Code</text>
-      <text x="140" y="190">Architect low-latency automated intelligence systems</text>
-      <text x="140" y="230">GitHub · LinkedIn · Codeforces · Gmail</text>
+    <circle r="6" fill="#fff" filter="url(#glow)" />
+    <text x="0" y="130" fill="#80f5ff" font-family="monospace" font-size="11" text-anchor="middle" letter-spacing="2">GIPSY_DANGER // VULCAN TURBINE</text>
+  </g>
+
+  <!-- Frequency Wave -->
+  <g transform="translate(45, 410)">
+    <text x="0" y="0" fill="#00e5ff" font-family="monospace" font-size="11" letter-spacing="2">NEURAL_DRIFT_ANALYSIS</text>
+    <path d="M0 40 Q45 0 90 40 T180 40 T270 40 T360 40" fill="none" stroke="#00e5ff" stroke-width="2" filter="url(#glow)">
+      <animate attributeName="d" attributeType="XML" values="M0 40 Q45 10 90 40 T180 10 T270 70 T360 40;M0 40 Q45 70 90 40 T180 70 T270 10 T360 40;M0 40 Q45 10 90 40 T180 10 T270 70 T360 40" dur="3s" repeatCount="indefinite" />
+    </path>
+    <text x="0" y="85" fill="#66ccff" font-family="monospace" font-size="10">PONS_LINK: STABLE // 2.4 GHz</text>
+  </g>
+
+  <!-- Operative Dossier -->
+  <g transform="translate(430, 85)">
+    <text x="0" y="25" fill="#00e5ff" font-family="monospace" font-size="14" letter-spacing="2">02 // OPERATIVE PROFILE</text>
+    <g font-family="monospace" font-size="13" transform="translate(0, 35)">
+      <g fill="#0099ff">
+        <text x="0" y="30">OPERATIVE</text>
+        <text x="0" y="70">DIVISION</text>
+        <text x="0" y="110">BASE HQ</text>
+        <text x="0" y="150">CORE STACK</text>
+        <text x="0" y="190">OBJECTIVE</text>
+        <text x="0" y="230">NETWORKS</text>
+      </g>
+      <g fill="#e0f7ff">
+        <text x="140" y="30">Mohammed Kasu</text>
+        <text x="140" y="70">AI &amp; Data Science Engineering</text>
+        <text x="140" y="110">RCOE // Mumbai, India</text>
+        <text x="140" y="150">C · Python · Git · VS Code</text>
+        <text x="140" y="190">Architect low-latency automated intelligence systems</text>
+        <text x="140" y="230">GitHub · LinkedIn · Codeforces · Gmail</text>
+      </g>
+      <path d="M0 45H710M0 85H710M0 125H710M0 165H710M0 205H710M0 245H710" stroke="#0055ff" stroke-width="0.7" opacity=".3" />
     </g>
-    <path d="M0 45H710M0 85H710M0 125H710M0 165H710M0 205H710M0 245H710" stroke="#0055ff" stroke-width="0.7" opacity=".3" />
   </g>
-</g>
 
-<!-- System Meters -->
-<g transform="translate(430, 410)">
-  <text x="0" y="20" fill="#00e5ff" font-family="monospace" font-size="11" letter-spacing="1">03 // SYSTEM SUB-ROUTINES & METRICS</text>
-  <g font-family="monospace" font-size="11" fill="#80f5ff" transform="translate(0, 40)">
-    <text x="0" y="20">NEURAL ARCHITECTURE LOAD</text>
-    <rect x="250" y="10" width="460" height="6" rx="3" fill="#020b16" stroke="#0044aa" />
-    <rect x="250" y="10" width="390" height="6" rx="3" fill="#00e5ff" filter="url(#glow)" />
-
-    <text x="0" y="65">ALGORITHMIC PIPELINE LATENCY</text>
-    <rect x="250" y="55" width="460" height="6" rx="3" fill="#020b16" stroke="#0044aa" />
-    <rect x="250" y="55" width="420" height="6" rx="3" fill="#00e5ff" filter="url(#glow)" />
-
-    <text x="0" y="110">MEMORY ALLOCATION SYNC</text>
-    <rect x="250" y="100" width="460" height="6" rx="3" fill="#020b16" stroke="#0044aa" />
-    <rect x="250" y="100" width="340" height="6" rx="3" fill="#00e5ff" filter="url(#glow)" />
+  <!-- System Meters -->
+  <g transform="translate(430, 410)">
+    <text x="0" y="20" fill="#00e5ff" font-family="monospace" font-size="11" letter-spacing="1">03 // SYSTEM SUB-ROUTINES &amp; METRICS</text>
+    <g font-family="monospace" font-size="11" fill="#80f5ff" transform="translate(0, 40)">
+      <text x="0" y="20">NEURAL ARCHITECTURE LOAD</text>
+      <rect x="250" y="10" width="460" height="6" rx="3" fill="#020b16" stroke="#0044aa" />
+      <rect x="250" y="10" width="390" height="6" rx="3" fill="#00e5ff" filter="url(#glow)" />
+      <text x="0" y="65">ALGORITHMIC PIPELINE LATENCY</text>
+      <rect x="250" y="55" width="460" height="6" rx="3" fill="#020b16" stroke="#0044aa" />
+      <rect x="250" y="55" width="420" height="6" rx="3" fill="#00e5ff" filter="url(#glow)" />
+      <text x="0" y="110">MEMORY ALLOCATION SYNC</text>
+      <rect x="250" y="100" width="460" height="6" rx="3" fill="#020b16" stroke="#0044aa" />
+      <rect x="250" y="100" width="340" height="6" rx="3" fill="#00e5ff" filter="url(#glow)" />
+    </g>
   </g>
-</g>
 
-<text x="50" y="705" fill="#00e5ff" font-family="monospace" font-size="11" opacity=".7">STATUS: NOMINAL // ALL SYSTEMS GO</text>
-<text x="1150" y="705" fill="#00e5ff" font-family="monospace" font-size="11" text-anchor="end" opacity=".7">SYNC_COMPLETE ✓</text>
-<path d="M50 682H1150" stroke="#00e5ff" stroke-width="1" opacity=".3" />
+  <!-- Footer HUD -->
+  <text x="50" y="705" fill="#00e5ff" font-family="monospace" font-size="11" opacity=".7">STATUS: NOMINAL // ALL SYSTEMS GO</text>
+  <text x="1150" y="705" fill="#00e5ff" font-family="monospace" font-size="11" text-anchor="end" opacity=".7">SYNC_COMPLETE ✓</text>
+  <path d="M50 682H1150" stroke="#00e5ff" stroke-width="1" opacity=".3" />
 </svg>
