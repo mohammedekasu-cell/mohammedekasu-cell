@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- DYNAMIC ANIMATED HEADER BANNER (BATMAN x STARK x JAEGER) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=WAYNE%20TECH%20//%20J.A.R.V.I.S.%20//%20JAEGER%20HUD&fontSize=32&fontColor=FFD700&animation=twinkling&fontAlignY=40&stroke=FFD700" width="100%" alt="Tactical Header"/>
+<!-- STARK BLUEPRINT HUD DASHBOARD -->
+<img src="./profile-scan.svg" width="100%" alt="Stark Blueprint HUD">
 
 <br>
 
-<!-- ANIMATED DYNAMIC TYPING SVG (STARK HUD STYLE) -->
+<!-- DYNAMIC TYPING BAR -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=750&lines=INITIALIZING+MARK-85+BATCAVE+MAINFRAME...;OPERATIVE:+MOHAMMED+KASU+%7C+AI+%26+DATA+SCIENCE;SYSTEM+STATUS:+NEURAL+DRIFT+CONNECTED+%7C+F1+TELEMETRY+ACTIVE;LOCATION:+GOTHAM+%2F%2F+MUMBAI+SECTOR" alt="Typing HUD" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=INITIALIZING+STARK+MAINFRAME...;OPERATIVE:+MOHAMMED+KASU+%7C+AI+%26+DATA+SCIENCE;SYSTEM+STATUS:+ONLINE+%7C+TELEMETRY:+ACTIVE;LOCATION:+RCOE+%2F%2F+MUMBAI+SECTOR" alt="Typing HUD" />
 </p>
 
 </div>
@@ -16,26 +16,30 @@
 
 <div align="center">
 
-```text
-+----------------------------------------------------------------------------------+
-| ● ● ●       WAYNE ENTERPRISES // STARK HUD // JAEGER INTERFACE      SYS v4.09    |
-+----------------------------------------------------------------------------------+
-|                                                                                  |
-|  01 // TACTICAL SKILL MODULES         02 // OPERATOR PROFILE DIAGNOSTICS         |
-|                                                                                  |
-|  +------------------+  +------------------+   OPERATIVE : MOHAMMED KASU          |
-|  | C PROGRAMMING    |  | PYTHON 3         |   ROLE      : AI & DATA SCIENCE ENG. |
-|  +------------------+  +------------------+   BASE HQ   : RCOE // MUMBAI         |
-|  +------------------+  +------------------+   MISSION   : LOW-LATENCY AI SYSTEMS |
-|  | GIT / GITHUB     |  | VS CODE          |                                    |
-|  +------------------+  +------------------+   03 // ESTABLISH CONNECTION         |
-|                                                                                  |
-|  DRIFT HARMONY  : 99.8% ENTANGLE       +------------------+  +------------------+  |
-|  F1 TELEMETRY   : ERS DEPLOY ACTIVE     |     GITHUB ↗     |  |      EMAIL ↗     |  |
-|  SUIT INTEGRITY : 100%                 +------------------+  +------------------+  |
-|                                                                                  |
-|                                       SYSTEM CONNECTION LOADING...               |
-|                                       [████████████████████████████████] 100%    |
-|                                                                                  |
-|                                       > ACCESS GRANTED // DRIFT SYNCED           |
-+----------------------------------------------------------------------------------+
+## 🌐 [DIRECT COMMS & NETWORKS]
+
+<!-- WORKING INTERACTIVE CLICKABLE BUTTONS -->
+[![GitHub](https://img.shields.io/badge/NETWORK-GITHUB-000000?style=for-the-badge&logo=github&logoColor=00E5FF&color=041221)](https://github.com/mohammedekasu-cell)
+[![LinkedIn](https://img.shields.io/badge/PROFESSIONAL-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF&color=041221)](https://www.linkedin.com/feed/)
+[![Codeforces](https://img.shields.io/badge/ALGO-CODEFORCES-000000?style=for-the-badge&logo=codeforces&logoColor=00E5FF&color=041221)](https://codeforces.com/)
+[![Email](https://img.shields.io/badge/SECURE-GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00E5FF&color=041221)](mailto:mohammedekasu@gmail.com)
+
+<br>
+
+<!-- LIVE PROFILE VIEW COUNTER -->
+![](https://komarev.com/ghpvc/?username=mohammedekasu-cell&color=00E5FF&style=for-the-badge&label=SYSTEM+ACCESS+PINGS)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 [TELEMETRY PERFORMANCE METRICS]
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedekasu-cell&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedekasu-cell&layout=compact&theme=nord&hide_border=true" width="48%" />
+</p>
+
+</div>
