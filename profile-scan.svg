@@ -69,18 +69,18 @@
       <g fill="#0099ff">
         <text x="0" y="30">OPERATIVE</text>
         <text x="0" y="70">DIVISION</text>
-        <text x="0" y="110">BASE HQ</text>
-        <text x="0" y="150">CORE STACK</text>
-        <text x="0" y="190">OBJECTIVE</text>
-        <text x="0" y="230">NETWORKS</text>
+        <text x="0" y="110">BRANCH</text>
+        <text x="0" y="150">BASE HQ</text>
+        <text x="0" y="190">CORE STACK</text>
+        <text x="0" y="230">OBJECTIVE</text>
       </g>
       <g fill="#e0f7ff">
         <text x="140" y="30">Mohammed Kasu</text>
-        <text x="140" y="70">AI &amp; Data Science Engineering</text>
-        <text x="140" y="110">RCOE // Mumbai, India</text>
-        <text x="140" y="150">C · Python · Git · VS Code</text>
-        <text x="140" y="190">Architect low-latency automated intelligence systems</text>
-        <text x="140" y="230">GitHub · LinkedIn · Codeforces · Gmail</text>
+        <text x="140" y="70">F Division</text>
+        <text x="140" y="110">AI & Data Science</text>
+        <text x="140" y="150">RCOE // Mumbai, India</text>
+        <text x="140" y="190">C · Python · Git · VS Code</text>
+        <text x="140" y="230">Architect low-latency automated intelligence systems</text>
       </g>
       <path d="M0 45H710M0 85H710M0 125H710M0 165H710M0 205H710M0 245H710" stroke="#0055ff" stroke-width="0.7" opacity=".3" />
     </g>
@@ -88,7 +88,7 @@
 
   <!-- System Meters -->
   <g transform="translate(430, 410)">
-    <text x="0" y="20" fill="#00e5ff" font-family="monospace" font-size="11" letter-spacing="1">03 // SYSTEM SUB-ROUTINES &amp; METRICS</text>
+    <text x="0" y="20" fill="#00e5ff" font-family="monospace" font-size="11" letter-spacing="1">03 // SYSTEM SUB-ROUTINES & METRICS</text>
     <g font-family="monospace" font-size="11" fill="#80f5ff" transform="translate(0, 40)">
       <text x="0" y="20">NEURAL ARCHITECTURE LOAD</text>
       <rect x="250" y="10" width="460" height="6" rx="3" fill="#020b16" stroke="#0044aa" />
