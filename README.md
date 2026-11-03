@@ -17,12 +17,12 @@
 ## ⚡ [ABOUT ME & BACKGROUND]
 
 <p align="left">
-  👋 Hey there! I'm <b>Mohammed Kasu</b>, a first-year Engineering student pursuing a Bachelor of Engineering (B.E.) in <b>Artificial Intelligence and Data Science</b> at Rizvi College of Engineering (RCOE), Mumbai. I am passionate about machine learning, artificial intelligence, game designing, and building clean logic for systems and data pipelines.
+  👋 Hey there! I'm <b>Mohammed Kasu</b>, a first-year Engineering student pursuing a Bachelor of Engineering (B.E.) in <b>Artificial Intelligence and Data Science</b> at Rizvi College of Engineering (RCOE), Mumbai. I am passionate about machine learning, artificial intelligence, game designing, and building clean logic for software systems.
 </p>
 
 - 🎯 **Current Focus:** Mastering C and Python programming fundamentals, sharpening algorithmic problem-solving, securing a stellar CGPA, and targeting top-tier engineering internships.
 - 🏎️ **Passions & Hobbies:** Formula 1 racing tech, comic book lore (DC & Batman), sketching, and retro gaming.
-- 💼 **Goal:** Architecting high-efficiency, low-latency automated intelligence systems and clean software architectures.
+- 💼 **Goal:** Building efficient software architectures and practical, clean-logic applications.
 
 ---
 
