@@ -18,6 +18,7 @@
 
 ## 🌐 [DIRECT COMMS & NETWORKS]
 
+<!-- WORKING INTERACTIVE CLICKABLE BUTTONS -->
 [![GitHub](https://img.shields.io/badge/NETWORK-GITHUB-000000?style=for-the-badge&logo=github&logoColor=00E5FF&color=041221)](https://github.com/mohammedekasu-cell)
 [![LinkedIn](https://img.shields.io/badge/PROFESSIONAL-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF&color=041221)](https://www.linkedin.com/feed/)
 [![Codeforces](https://img.shields.io/badge/ALGO-CODEFORCES-000000?style=for-the-badge&logo=codeforces&logoColor=00E5FF&color=041221)](https://codeforces.com/)
@@ -34,13 +35,11 @@
 
 <div align="center">
 
-## 📊 [CORE STACK & TECHNOLOGIES]
+## 📊 [TELEMETRY PERFORMANCE METRICS]
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedekasu-cell&show_icons=true&theme=radical&hide_border=true&title_color=00E5FF&text_color=ffffff&icon_color=00E5FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedekasu-cell&layout=compact&theme=radical&hide_border=true&title_color=00E5FF&text_color=ffffff" width="48%" />
 </p>
 
 </div>
