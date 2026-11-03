@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=WAYNE%20ENTERPRISES%20//%20BATCOMPUTER%20HUD&fontSize=28&fontColor=FFD700&animation=fadeIn&fontAlignY=50&stroke=FFD700" width="100%" alt="Batcomputer Header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=Mohammed%20Kasu%20//%20Data%20Log&fontSize=28&fontColor=FFD700&animation=fadeIn&fontAlignY=50&stroke=FFD700" width="100%" alt="Batcomputer Header"/>
 
 <br>
 
