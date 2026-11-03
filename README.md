@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- STARK BLUEPRINT HUD DASHBOARD -->
-<img src="https://raw.githubusercontent.com/mohammedekasu-cell/mohammedekasu-cell/main/profile-scan.svg" width="100%" alt="Stark Blueprint HUD">
+<img src="./profile-scan.svg" width="100%" alt="Stark Blueprint HUD">
 
 <br>
 
@@ -38,8 +38,8 @@
 ## 📊 [TELEMETRY PERFORMANCE METRICS]
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedekasu-cell&show_icons=true&theme=dark&hide_border=true&title_color=00E5FF&text_color=ffffff&icon_color=00E5FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedekasu-cell&layout=compact&theme=dark&hide_border=true&title_color=00E5FF&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedekasu-cell&show_icons=true&theme=radical&hide_border=true&title_color=00E5FF&text_color=ffffff&icon_color=00E5FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedekasu-cell&layout=compact&theme=radical&hide_border=true&title_color=00E5FF&text_color=ffffff" width="48%" />
 </p>
 
 </div>
