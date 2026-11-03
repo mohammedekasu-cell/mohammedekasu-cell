@@ -14,6 +14,18 @@
 
 ---
 
+## ⚡ [ABOUT ME & BACKGROUND]
+
+<p align="left">
+  👋 Hey there! I'm <b>Mohammed Kasu</b>, a first-year Engineering student pursuing a Bachelor of Engineering (B.E.) in <b>Artificial Intelligence and Data Science</b> at Rizvi College of Engineering (RCOE), Mumbai. I am passionate about low-level logic, systems engineering, and building automated data pipelines.
+</p>
+
+- 🎯 **Current Focus:** Mastering C and Python programming fundamentals, procedural syntax, and algorithmic problem-solving.
+- 🏎️ **Passions & Hobbies:** Formula 1 racing tech, comic book lore (DC & Batman), sketching, and retro gaming.
+- 💼 **Goal:** Architecting high-efficiency, low-latency automated intelligence systems and clean software architectures.
+
+---
+
 <div align="center">
 
 ## 🌐 [DIRECT COMMS & NETWORKS]
@@ -25,7 +37,6 @@
 
 <br>
 
-<!-- LIVE PROFILE VIEW COUNTER -->
 ![](https://komarev.com/ghpvc/?username=mohammedekasu-cell&color=00E5FF&style=for-the-badge&label=SYSTEM+ACCESS+PINGS)
 
 </div>
@@ -34,13 +45,20 @@
 
 <div align="center">
 
-## 📊 [CORE STACK & TECHNOLOGIES]
+## 📊 [CORE STACK & TELEMETRY METRICS]
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedekasu-cell&show_icons=true&theme=dark&hide_border=true&title_color=00E5FF&text_color=ffffff&icon_color=00E5FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedekasu-cell&layout=compact&theme=dark&hide_border=true&title_color=00E5FF&text_color=ffffff" width="48%" />
 </p>
 
 </div>
