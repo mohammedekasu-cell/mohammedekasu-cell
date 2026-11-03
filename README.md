@@ -1,30 +1,22 @@
 <div align="center">
 
-  <!-- YOUR CUSTOM BANNER IMAGE HERE -->
-  <img src="YOUR_IMAGE_URL_HERE" alt="Mohammed Kasu Header" width="100%">
+# ⚡ MOHAMMED KASU
+### AI & DATA SCIENCE ENGINEERING | TACTICAL SYSTEMS
 
-  <!-- TECH STATUS BADGES UNDERNEATH -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&logoWidth=40">
-    <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20DATA%20SCIENCE-333333?style=for-the-badge">
-    <img src="https://img.shields.io/badge/MODE-BUILD%20%7C%20LEARN%20%7C%20REPEAT-00E5FF?style=for-the-badge">
-  </p>
+*Initializing Developer Profile...*
 
-</div>
-
-
-<div align="center">
-
-<img src="YOUR_HEADER_IMAGE_LINK" width="100%" alt="Mohammed Kasu Header" />
-
-### *Initializing Developer Profile...*
+<br>
 
 ![](https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&logoWidth=40)
 ![](https://img.shields.io/badge/FOCUS-AI%20%26%20DATA%20SCIENCE-333333?style=for-the-badge)
 ![](https://img.shields.io/badge/MODE-BUILD%20%7C%20LEARN%20%7C%20REPEAT-00E5FF?style=for-the-badge)
 
+<br>
+
 [![GitHub](https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github)](https://github.com/mohammedekasu-cell)
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedekasu@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=mohammedekasu-cell&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
